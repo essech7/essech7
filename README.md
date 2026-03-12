@@ -12,3 +12,7 @@ HTML | CSS | JavaScript | PHP | MySQL
 - Weather App
 - Loopi online shop
 - AI bot for daily life
+
+## 🚀 Featured Project
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fhdhsjsnsndnsns&repo=fhdhsjsnsndnsns&theme=tokyonight)
