@@ -15,4 +15,7 @@ HTML | CSS | JavaScript | PHP | MySQL
 - Pomodoro Timer
 - Habit tracker
 - Flashcard app
+- TrackMaster
+- Typing speed test
+- TaskForge
 
