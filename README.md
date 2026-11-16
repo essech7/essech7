@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:17152B,30:342B51,65:514078,100:17152B&amp;text=Esse%20Chaouch&amp;fontColor=F3EFFA&amp;fontSize=58&amp;fontAlignY=39&amp;desc=building%20little%20worlds%20with%20code%20%26%20curiosity&amp;descAlignY=61&amp;descSize=15&amp;animation=fadeIn" />
+![Esse Chaouch Banner](https://capsule-render.vercel.app/api?type=waving&color=17152B,342B51,514078,17152B&height=260&section=header&text=Esse%20Chaouch&fontColor=F3EFFA&fontSize=58&fontAlignY=39&desc=building%20little%20worlds%20with%20code%20and%20curiosity&descAlignY=61&descSize=15&animation=fadeIn)
 
 ### ☾ welcome to my little corner of the internet ☽
 
@@ -82,7 +82,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![React](https://img.shields.io/badge/-React-514078?style=flat-square&amp;logoColor=F3EFFA) ![TypeScript](https://img.shields.io/badge/-TypeScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![Google GenAI](https://img.shields.io/badge/-Google%20GenAI-514078?style=flat-square&amp;logoColor=F3EFFA) ![Vite](https://img.shields.io/badge/-Vite-514078?style=flat-square&amp;logoColor=F3EFFA) ![Express](https://img.shields.io/badge/-Express-514078?style=flat-square&amp;logoColor=F3EFFA)
+![React](https://img.shields.io/badge/-React-514078?style=flat-square&logoColor=F3EFFA) ![TypeScript](https://img.shields.io/badge/-TypeScript-514078?style=flat-square&logoColor=F3EFFA) ![Google GenAI](https://img.shields.io/badge/-Google%20GenAI-514078?style=flat-square&logoColor=F3EFFA) ![Vite](https://img.shields.io/badge/-Vite-514078?style=flat-square&logoColor=F3EFFA) ![Express](https://img.shields.io/badge/-Express-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -105,7 +105,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![UI/UX](https://img.shields.io/badge/-UI%2FUX-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![UI/UX](https://img.shields.io/badge/-UI%2FUX-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -128,7 +128,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -139,7 +139,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 > My small handmade crochet venture, where creativity meets entrepreneurship. Loopi represents my interest in building a brand, creating products, exploring digital marketing, and bringing handmade creations into the online business world.
 
-![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-B77C9B?style=flat-square&amp;logoColor=F3EFFA) ![E-business](https://img.shields.io/badge/-E%2Dbusiness-B77C9B?style=flat-square&amp;logoColor=F3EFFA) ![Branding](https://img.shields.io/badge/-Branding-B77C9B?style=flat-square&amp;logoColor=F3EFFA) ![Creative Business](https://img.shields.io/badge/-Creative%20Business-B77C9B?style=flat-square&amp;logoColor=F3EFFA)
+![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-B77C9B?style=flat-square&logoColor=F3EFFA) ![E-business](https://img.shields.io/badge/-E%2Dbusiness-B77C9B?style=flat-square&logoColor=F3EFFA) ![Branding](https://img.shields.io/badge/-Branding-B77C9B?style=flat-square&logoColor=F3EFFA) ![Creative Business](https://img.shields.io/badge/-Creative%20Business-B77C9B?style=flat-square&logoColor=F3EFFA)
 
 <div align="right"><sub><a href="#chapter-ii-the-digital-workshop"><i>☞ turn to chapter ii</i></a> &nbsp;·&nbsp; <a href="#contents">↑ contents</a></sub></div>
 
@@ -174,7 +174,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![Open-Meteo API](https://img.shields.io/badge/-Open%2DMeteo%20API-514078?style=flat-square&amp;logoColor=F3EFFA) ![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![Open-Meteo API](https://img.shields.io/badge/-Open%2DMeteo%20API-514078?style=flat-square&logoColor=F3EFFA) ![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -198,7 +198,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square&amp;logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square&logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -223,7 +223,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![Chart.js](https://img.shields.io/badge/-Chart.js-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![Chart.js](https://img.shields.io/badge/-Chart.js-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -247,7 +247,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![Canvas API](https://img.shields.io/badge/-Canvas%20API-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![Canvas API](https://img.shields.io/badge/-Canvas%20API-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -272,7 +272,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="right"><sub><a href="#chapter-iii-the-productivity-garden"><i>☞ turn to chapter iii</i></a> &nbsp;·&nbsp; <a href="#contents">↑ contents</a></sub></div>
 
@@ -306,7 +306,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![PHP](https://img.shields.io/badge/-PHP-514078?style=flat-square&amp;logoColor=F3EFFA) ![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![JSON Storage](https://img.shields.io/badge/-JSON%20Storage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![PHP](https://img.shields.io/badge/-PHP-514078?style=flat-square&logoColor=F3EFFA) ![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![JSON Storage](https://img.shields.io/badge/-JSON%20Storage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -331,7 +331,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -356,7 +356,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -381,7 +381,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square&amp;logoColor=F3EFFA) ![Notification API](https://img.shields.io/badge/-Notification%20API-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square&logoColor=F3EFFA) ![Notification API](https://img.shields.io/badge/-Notification%20API-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -407,7 +407,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![SM-2 Algorithm](https://img.shields.io/badge/-SM%2D2%20Algorithm-514078?style=flat-square&amp;logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![SM-2 Algorithm](https://img.shields.io/badge/-SM%2D2%20Algorithm-514078?style=flat-square&logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -432,7 +432,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square&amp;logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square&logoColor=F3EFFA) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="center"><sub>⋆</sub></div>
 
@@ -458,7 +458,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 </details>
 
-![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&amp;logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&amp;logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&amp;logoColor=F3EFFA) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-514078?style=flat-square&amp;logoColor=F3EFFA) ![RSS](https://img.shields.io/badge/-RSS-514078?style=flat-square&amp;logoColor=F3EFFA)
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square&logoColor=F3EFFA) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square&logoColor=F3EFFA) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square&logoColor=F3EFFA) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-514078?style=flat-square&logoColor=F3EFFA) ![RSS](https://img.shields.io/badge/-RSS-514078?style=flat-square&logoColor=F3EFFA)
 
 <div align="right"><sub><a href="#chapter-iv-the-toolbox"><i>☞ turn to chapter iv</i></a> &nbsp;·&nbsp; <a href="#contents">↑ contents</a></sub></div>
 
@@ -473,7 +473,7 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,ts,tailwind,git,github,vscode&amp;theme=dark" />
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,ts,tailwind,git,github,vscode&theme=dark)
 
 </div>
 
@@ -501,13 +501,13 @@ My interests go beyond writing code. I'm fascinated by digital innovation, produ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=essech7&amp;show_icons=true&amp;hide_border=true&amp;bg_color=17152B&amp;title_color=C5B9E8&amp;text_color=F3EFFA&amp;icon_color=B77C9B&amp;rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=essech7&show_icons=true&hide_border=true&bg_color=17152B&title_color=C5B9E8&text_color=F3EFFA&icon_color=B77C9B&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essech7&amp;layout=compact&amp;hide_border=true&amp;bg_color=17152B&amp;title_color=C5B9E8&amp;text_color=F3EFFA" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essech7&layout=compact&hide_border=true&bg_color=17152B&title_color=C5B9E8&text_color=F3EFFA" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=essech7&amp;hide_border=true&amp;background=17152B&amp;ring=8F82B8&amp;fire=B77C9B&amp;currStreakLabel=C5B9E8&amp;sideLabels=F3EFFA&amp;dates=A9A5B8" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=essech7&hide_border=true&background=17152B&ring=8F82B8&fire=B77C9B&currStreakLabel=C5B9E8&sideLabels=F3EFFA&dates=A9A5B8" />
 
 </div>
 
@@ -545,8 +545,8 @@ If you're interested in web development, AI, e-business, creative technology, or
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/esse-chaouch"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-CDBBFF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=17152B" /></a>
-<a href="https://github.com/essech7?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-E8BDE5?style=for-the-badge&amp;logo=github&amp;logoColor=17152B" /></a>
+<a href="https://www.linkedin.com/in/esse-chaouch"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-CDBBFF?style=for-the-badge&logo=linkedin&logoColor=17152B" /></a>
+<a href="https://github.com/essech7?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-E8BDE5?style=for-the-badge&logo=github&logoColor=17152B" /></a>
 
 <br/><br/>
 
@@ -558,6 +558,6 @@ If you're interested in web development, AI, e-business, creative technology, or
 
 <sub><a href="#top"><i>↑ return to the cover</i></a></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:17152B,50:342B51,100:17152B&amp;height=120&amp;section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=17152B,342B51,514078,17152B&height=120&section=footer)
 
 </div>
