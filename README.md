@@ -1,49 +1,74 @@
- <div align="center">
+<a id="top"></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:100D20,35:292044,70:51416F,100:18213A&text=Esse%20Chaouch&fontColor=F5EDFF&fontSize=58&fontAlignY=39&desc=building%20little%20worlds%20with%20code%20%26%20curiosity&descAlignY=61&descSize=15&animation=fadeIn" />
+<div align="center">
 
-### ☾ Welcome to my little corner of the internet.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:17152B,30:342B51,65:514078,100:17152B&text=Esse%20Chaouch&fontColor=F3EFFA&fontSize=58&fontAlignY=39&desc=building%20little%20worlds%20with%20code%20%26%20curiosity&descAlignY=61&descSize=15&animation=fadeIn" />
 
-*Where code meets creativity, ideas become experiments, and every repository tells a different story.*
+### ☾ welcome to my little corner of the internet ☽
+
+*where code meets creativity, ideas become experiments, and every repository tells a different story.*
 
 [LinkedIn](https://www.linkedin.com/in/esse-chaouch) · [GitHub](https://github.com/essech7) · [Explore my repositories](https://github.com/essech7?tab=repositories)
 
-✧ ─────────────── ୨୧ ─────────────── ✧
+</div>
+
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
+
+> <sub><i>❋ a note from esse ❋</i></sub>
+>
+> *This journal is where I keep my experiments, tools, and creative ventures. Pull up a chair, stay a while, and wander through the chapters below.*
+
+<a id="contents"></a>
+<div align="center">
+
+<sub>✦ ─── contents of this journal ─── ✦</sub>
+
+[Prologue](#prologue) ✦ [I · Creative Lab](#chapter-i-the-creative-lab) ✦ [II · Digital Workshop](#chapter-ii-the-digital-workshop)
+[III · Productivity Garden](#chapter-iii-the-productivity-garden) ✦ [IV · Toolbox](#chapter-iv-the-toolbox)
+[V · GitHub Universe](#chapter-v-my-github-universe) ✦ [VI · Beyond the Screen](#chapter-vi-beyond-the-screen) ✦ [Epilogue](#epilogue)
 
 </div>
 
-## ୨୧ The person behind the commits
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
-Hello, I'm **Esse Chaouch**!
+## Prologue
 
-I'm a final-year Business Computing / E-business student from Tunisia, interested in the intersection of technology, business, creativity and intelligent digital experiences.
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
+
+*In which the reader meets the keeper of this little universe.*
+
+Hello, I'm **Esse Chaouch** — a final-year Business Computing / E-business student from Tunisia, wandering the intersection of technology, business, creativity, and intelligent digital experiences.
 
 I enjoy building things that solve problems, experimenting with new technologies, and turning ideas into functional applications.
 
-My interests go beyond writing code. I'm fascinated by digital innovation, product thinking, user experience, entrepreneurship and the ways technology can make everyday life a little easier.
+My interests go beyond writing code. I'm fascinated by digital innovation, product thinking, user experience, entrepreneurship, and the ways technology can make everyday life a little easier.
 
 **A few things that make up my little universe:**
 
 - 🎓 Final-year Business Computing / E-business student.
 - 💻 Interested in web development and full-stack application design.
 - 🤖 Exploring Artificial Intelligence and AI-powered applications.
-- 📊 Interested in digital business, product development and e-commerce.
+- 📊 Interested in digital business, product development, and e-commerce.
 - 🧶 Founder of [Loopi](https://github.com/essech7/Loopi), my handmade crochet venture.
 - 🦋 Creative at heart, developer by curiosity, lifelong learner by choice.
 
----
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
-# ✦ Chapter I: The Creative Lab
+## Chapter I: The Creative Lab
 
-*Where ideas meet experimentation.*
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
 
-Projects exploring AI, digital experiences, professional identity and creative technology.
+*where ideas meet experimentation*
 
+<a id="cinevoice-ai"></a>
 ### 🎬 [CineVoice AI](https://github.com/essech7/CineVoice-ai)
 
-**Audio-to-Series Video Automation Platform**
+*Audio-to-Series Video Automation Platform*
 
 An exploration of AI-powered media production, designed around transforming audio into video series through automated workflows.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - LLM orchestration for intelligent content workflows.
 - Audio-to-video series automation concept.
@@ -51,13 +76,21 @@ An exploration of AI-powered media production, designed around transforming audi
 - React and TypeScript-based application.
 - Google GenAI integration.
 
-`React` `TypeScript` `Google GenAI` `Vite` `Express`
+</details>
 
+![React](https://img.shields.io/badge/-React-514078?style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-514078?style=flat-square) ![Google GenAI](https://img.shields.io/badge/-Google%20GenAI-514078?style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-514078?style=flat-square) ![Express](https://img.shields.io/badge/-Express-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="portfolio-esse"></a>
 ### ✧ [Portfolio-Esse](https://github.com/essech7/Portfolio-Esse)
 
-**My personal digital space.**
+*My personal digital space.*
 
-A personal portfolio showcasing my professional identity, web development interests and creative approach to digital experiences.
+A personal portfolio showcasing my professional identity, web development interests, and creative approach to digital experiences.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Lavender-inspired visual identity.
 - Light and dark themes.
@@ -65,13 +98,21 @@ A personal portfolio showcasing my professional identity, web development intere
 - Interactive visual effects and animations.
 - Responsive layout and editorial typography.
 
-`HTML` `CSS` `JavaScript` `UI/UX`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![UI%2FUX](https://img.shields.io/badge/-UI%2FUX-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="skillgrapher"></a>
 ### 📊 [SkillGrapher](https://github.com/essech7/SkillGrapher)
 
-**LinkedIn Credibility Engine**
+*LinkedIn Credibility Engine*
 
 A project focused on professional branding and content creation, bringing GitHub projects and LinkedIn visibility into one workflow.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - AI-assisted LinkedIn post generation.
 - GitHub synchronization interface.
@@ -79,29 +120,40 @@ A project focused on professional branding and content creation, bringing GitHub
 - Analytics dashboard.
 - Professional profile and credibility management.
 
-`HTML` `CSS` `JavaScript` `Tailwind CSS`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="loopi"></a>
 ### 🧶 [Loopi](https://github.com/essech7/Loopi)
 
-**Not just crochet, it's Loopi!**
+*Not just crochet, it's Loopi!*
 
-My small handmade crochet venture, where creativity meets entrepreneurship.
+My small handmade crochet venture, where creativity meets entrepreneurship. Loopi represents my interest in building a brand, creating products, exploring digital marketing, and bringing handmade creations into the online business world.
 
-Loopi represents my interest in building a brand, creating products, exploring digital marketing and bringing handmade creations into the online business world.
+![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-B77C9B?style=flat-square) ![E%2Dbusiness](https://img.shields.io/badge/-E%2Dbusiness-B77C9B?style=flat-square) ![Branding](https://img.shields.io/badge/-Branding-B77C9B?style=flat-square) ![Creative%20Business](https://img.shields.io/badge/-Creative%20Business-B77C9B?style=flat-square)
 
-`Entrepreneurship` `E-business` `Branding` `Creative Business`
+<div align="right"><sub><a href="#chapter-ii-the-digital-workshop"><i>☞ turn to chapter ii</i></a> · <a href="#contents">↑ contents</a></sub></div>
 
----
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
-# ☁ Chapter II: The Digital Workshop
+## Chapter II: The Digital Workshop
 
-*Little tools, useful experiences and experiments built from curiosity.*
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
 
+*little tools, useful experiences, and experiments built from curiosity*
+
+<a id="aether"></a>
 ### 🌤 [AETHER](https://github.com/essech7/Aether)
 
-**An interactive weather experience.**
+*An interactive weather experience.*
 
 A weather application designed to make forecasts feel more engaging through animated visuals and dynamic environments.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - City search with autocomplete.
 - Geolocation support.
@@ -112,13 +164,21 @@ A weather application designed to make forecasts feel more engaging through anim
 - Sunrise and sunset progress indicator.
 - Dynamic weather-based themes.
 
-`HTML` `CSS` `JavaScript` `Open-Meteo API` `OpenStreetMap`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![Open%2DMeteo%20API](https://img.shields.io/badge/-Open%2DMeteo%20API-514078?style=flat-square) ![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="typeforge"></a>
 ### ⌨️ [TYPEFORGE](https://github.com/essech7/Typing-speed-test)
 
-**A terminal-inspired typing speed challenge.**
+*A terminal-inspired typing speed challenge.*
 
 An interactive typing test that measures performance while providing a clean, terminal-inspired experience.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - 30-second, 60-second and 2-minute modes.
 - Words mode.
@@ -127,13 +187,21 @@ An interactive typing test that measures performance while providing a clean, te
 - Character-level error highlighting.
 - Personal best and session history.
 
-`HTML` `CSS` `JavaScript` `SVG` `localStorage`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="spendly"></a>
 ### 💸 [Spendly](https://github.com/essech7/expense-tracker)
 
-**Personal Expense Tracker**
+*Personal Expense Tracker*
 
-A browser-based financial management application for tracking income, expenses and monthly spending patterns.
+A browser-based financial management application for tracking income, expenses, and monthly spending patterns.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Income and expense management.
 - Eight spending categories.
@@ -143,13 +211,21 @@ A browser-based financial management application for tracking income, expenses a
 - Dark and light themes.
 - Local data persistence.
 
-`HTML` `CSS` `JavaScript` `Chart.js`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![Chart.js](https://img.shields.io/badge/-Chart.js-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="qr-code-generator"></a>
 ### 🔳 [QR Code Generator](https://github.com/essech7/QR-code-gen)
 
-**A simple QR creation utility.**
+*A simple QR creation utility.*
 
 Generate customizable QR codes directly in the browser.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Text and URL generation.
 - Adjustable output sizes.
@@ -158,13 +234,21 @@ Generate customizable QR codes directly in the browser.
 - PNG download.
 - Fully client-side generation.
 
-`HTML` `CSS` `JavaScript` `Canvas API`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![Canvas%20API](https://img.shields.io/badge/-Canvas%20API-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="unit-converter"></a>
 ### 🔄 [Unit Converter](https://github.com/essech7/unit-converter)
 
-**A fast, offline-friendly conversion tool.**
+*A fast, offline-friendly conversion tool.*
 
 A practical utility for converting measurements across multiple categories.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Length, weight and temperature.
 - Volume, area, speed and time.
@@ -174,19 +258,29 @@ A practical utility for converting measurements across multiple categories.
 - Clipboard integration.
 - Offline-friendly functionality.
 
-`HTML` `CSS` `JavaScript` `localStorage`
+</details>
 
----
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square)
 
-# 🌱 Chapter III: The Productivity Garden
+<div align="right"><sub><a href="#chapter-iii-the-productivity-garden"><i>☞ turn to chapter iii</i></a> · <a href="#contents">↑ contents</a></sub></div>
 
-*Building tools to organize thoughts, manage time and make learning easier.*
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
+## Chapter III: The Productivity Garden
+
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
+
+*building tools to organize thoughts, manage time, and make learning easier*
+
+<a id="taskforge"></a>
 ### ⚡ [TaskForge](https://github.com/essech7/TaskForge)
 
-**Gamified Task Management System**
+*Gamified Task Management System*
 
 A productivity application that transforms task completion into a progression experience.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Complete task CRUD operations.
 - Project and category organization.
@@ -196,13 +290,21 @@ A productivity application that transforms task completion into a progression ex
 - XP, ranks and achievement badges.
 - Dark and light modes.
 
-`PHP` `HTML` `CSS` `JavaScript` `JSON Storage`
+</details>
 
+![PHP](https://img.shields.io/badge/-PHP-514078?style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![JSON%20Storage](https://img.shields.io/badge/-JSON%20Storage-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="trackmaster"></a>
 ### 🎯 [TrackMaster](https://github.com/essech7/TrackMaster)
 
-**Gamified To-Do Application**
+*Gamified To-Do Application*
 
 A task management application combining everyday productivity with achievement-based progression.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Task creation and organization.
 - Categories and priority sorting.
@@ -212,13 +314,21 @@ A task management application combining everyday productivity with achievement-b
 - Light and dark themes.
 - Browser-based persistence.
 
-`HTML` `CSS` `JavaScript` `localStorage`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="study-planner"></a>
 ### 📚 [Study Planner](https://github.com/essech7/study-planner-app)
 
-**Academic Task Management**
+*Academic Task Management*
 
 A student-oriented planner designed to organize academic responsibilities and monitor progress.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Tasks with subjects and deadlines.
 - Priority management.
@@ -228,13 +338,21 @@ A student-oriented planner designed to organize academic responsibilities and mo
 - Academic notebook-inspired interface.
 - Persistent browser storage.
 
-`HTML` `CSS` `JavaScript` `localStorage`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="pomofocus"></a>
 ### 🍅 [PomóFocus](https://github.com/essech7/Pomodoro-timer)
 
-**Pomodoro Focus & Productivity Timer**
+*Pomodoro Focus & Productivity Timer*
 
 A focus management application built around the Pomodoro technique.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Focus, short-break and long-break modes.
 - Animated SVG countdown ring.
@@ -244,13 +362,21 @@ A focus management application built around the Pomodoro technique.
 - Browser notifications.
 - Daily productivity tracking.
 
-`HTML` `CSS` `JavaScript` `SVG` `Notification API`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square) ![Notification%20API](https://img.shields.io/badge/-Notification%20API-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="flashmind"></a>
 ### 🃏 [FlashMind](https://github.com/essech7/Flashcard)
 
-**Flashcards & Spaced Repetition**
+*Flashcards & Spaced Repetition*
 
 An interactive learning application inspired by Anki, designed to support active recall and long-term retention.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Custom flashcard decks.
 - Question and answer cards.
@@ -261,13 +387,21 @@ An interactive learning application inspired by Anki, designed to support active
 - JSON import and export.
 - Dark and light modes.
 
-`HTML` `CSS` `JavaScript` `SM-2 Algorithm` `localStorage`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![SM%2D2%20Algorithm](https://img.shields.io/badge/-SM%2D2%20Algorithm-514078?style=flat-square) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="habit-tracker"></a>
 ### 🌿 [Habit Tracker](https://github.com/essech7/Habit-Tracker)
 
-**Daily Habit & Streak Tracker**
+*Daily Habit & Streak Tracker*
 
 A habit-building application that visualizes consistency and personal progress.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Custom habits and categories.
 - Daily check-ins.
@@ -277,13 +411,21 @@ A habit-building application that visualizes consistency and personal progress.
 - Progress bars and completion statistics.
 - Persistent habit history.
 
-`HTML` `CSS` `JavaScript` `SVG` `localStorage`
+</details>
 
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![SVG](https://img.shields.io/badge/-SVG-514078?style=flat-square) ![localStorage](https://img.shields.io/badge/-localStorage-514078?style=flat-square)
+
+<div align="center"><sub>⋆</sub></div>
+
+<a id="mydashboard"></a>
 ### 🖥️ [MyDashboard](https://github.com/essech7/personal-dashbord)
 
-**Personal Productivity Start Page**
+*Personal Productivity Start Page*
 
 A personal dashboard bringing useful daily information into one interface.
+
+<details>
+<summary><i>❋ peek inside</i></summary>
 
 - Live clock and date.
 - Weather information.
@@ -294,13 +436,19 @@ A personal dashboard bringing useful daily information into one interface.
 - Dark and light themes.
 - API integration and local caching.
 
-`HTML` `CSS` `JavaScript` `REST APIs` `RSS`
+</details>
 
----
+![HTML5](https://img.shields.io/badge/-HTML5-514078?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-514078?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-514078?style=flat-square) ![REST%20APIs](https://img.shields.io/badge/-REST%20APIs-514078?style=flat-square) ![RSS](https://img.shields.io/badge/-RSS-514078?style=flat-square)
 
-# ✧ Chapter IV: The Toolbox
+<div align="right"><sub><a href="#chapter-iv-the-toolbox"><i>☞ turn to chapter iv</i></a> · <a href="#contents">↑ contents</a></sub></div>
 
-*The technologies and concepts I explore while building.*
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
+
+## Chapter IV: The Toolbox
+
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
+
+*the technologies and concepts I explore while building*
 
 <div align="center">
 
@@ -319,48 +467,62 @@ A personal dashboard bringing useful daily information into one interface.
 | Tools | Git, GitHub, VS Code |
 | Concepts | MVC, CRUD, UI/UX, e-business, AI integration |
 
----
+<div align="right"><sub><a href="#chapter-v-my-github-universe"><i>☞ turn to chapter v</i></a> · <a href="#contents">↑ contents</a></sub></div>
 
-# ☾ Chapter V: My GitHub Universe
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
-*A little snapshot of my journey.*
+## Chapter V: My GitHub Universe
+
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
+
+*a little snapshot of my journey*
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=essech7&show_icons=true&hide_border=true&bg_color=100D20&title_color=D8C5FF&text_color=DDD5EE&icon_color=E8BDE5&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=essech7&show_icons=true&hide_border=true&bg_color=17152B&title_color=C5B9E8&text_color=F3EFFA&icon_color=B77C9B&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essech7&layout=compact&hide_border=true&bg_color=100D20&title_color=D8C5FF&text_color=DDD5EE" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essech7&layout=compact&hide_border=true&bg_color=17152B&title_color=C5B9E8&text_color=F3EFFA" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=essech7&hide_border=true&background=100D20&ring=CBB7FF&fire=E8BDE5&currStreakLabel=D8C5FF&sideLabels=DDD5EE&dates=958BAF" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=essech7&hide_border=true&background=17152B&ring=8F82B8&fire=B77C9B&currStreakLabel=C5B9E8&sideLabels=F3EFFA&dates=A9A5B8" />
 
 </div>
 
----
+<div align="right"><sub><a href="#chapter-vi-beyond-the-screen"><i>☞ turn to chapter vi</i></a> · <a href="#contents">↑ contents</a></sub></div>
 
-# 🦋 Chapter VI: Beyond the Screen
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
-Not everything I create happens behind a screen.
+## Chapter VI: Beyond the Screen
 
-I'm also the person behind **Loopi**, my handmade crochet venture. I enjoy turning yarn into little creations, experimenting with colors, developing a brand and learning what it takes to run a small creative business.
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
+
+*not everything I create happens behind a screen*
+
+I'm also the person behind **Loopi**, my handmade crochet venture. I enjoy turning yarn into little creations, experimenting with colors, developing a brand, and learning what it takes to run a small creative business.
 
 That side of me influences how I approach technology, too.
 
-I believe good digital products need more than working code. They need thought, personality, a purpose and an understanding of the people using them.
+> *I believe good digital products need more than working code. They need thought, personality, a purpose, and an understanding of the people using them.*
 
----
+<div align="right"><sub><a href="#epilogue"><i>☞ turn to the epilogue</i></a> · <a href="#contents">↑ contents</a></sub></div>
 
-# ✦ The next chapter is still being written...
+<div align="center"><sub>✦ ─────────── ⋆ ─────────── ✦</sub></div>
 
-I'm continuously exploring new technologies, refining my projects and looking for opportunities to learn, collaborate and create.
+## Epilogue
 
-If you're interested in web development, AI, e-business, creative technology or simply exchanging ideas, let's connect!
+<div align="center"><sub>❀ ─────────── ୨୧ ─────────── ❀</sub></div>
+
+*the next chapter is still being written...*
+
+I'm continuously exploring new technologies, refining my projects, and looking for opportunities to learn, collaborate, and create.
+
+If you're interested in web development, AI, e-business, creative technology, or simply exchanging ideas, let's connect!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/esse-chaouch"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-CDBBFF?style=for-the-badge&logo=linkedin&logoColor=171329" /></a>
-<a href="https://github.com/essech7?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-E8BDE5?style=for-the-badge&logo=github&logoColor=171329" /></a>
+<a href="https://www.linkedin.com/in/esse-chaouch"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-CDBBFF?style=for-the-badge&logo=linkedin&logoColor=17152B" /></a>
+<a href="https://github.com/essech7?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-E8BDE5?style=for-the-badge&logo=github&logoColor=17152B" /></a>
 
 <br/><br/>
 
@@ -368,6 +530,10 @@ If you're interested in web development, AI, e-business, creative technology or 
 
 **Stay curious. Keep creating. Leave a little magic in the source code.** 🦋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:18213A,50:292044,100:100D20&height=120&section=footer" />
+<br/>
+
+<sub><a href="#top"><i>↑ return to the cover</i></a></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17152B,50:342B51,100:17152B&height=120&section=footer" />
 
 </div>
